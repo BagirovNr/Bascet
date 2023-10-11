@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "img": "https://www.tretorn.eu/pub_images/original/475873011_2.jpg",
+      "name": "Product 1",
+      "id": 1
+    },
+    {
+      "img": "https://cdn11.bigcommerce.com/s-rxzabllq/images/stencil/1280x1280/products/1504/12422/1HT_AQUA-Plain-100-Cotton-Tshirt-Online__30618.1643763653.jpg?c=2",
+      "name": "Product 2",
+      "id": 2
+    },
+    {
+      "img": "https://static.wixstatic.com/media/c02b09_50d051e5dc304bb3ac9d4c8e1ec68443~mv2.jpg/v1/fill/w_526,h_526,al_c,lg_1,q_80,enc_auto/c02b09_50d051e5dc304bb3ac9d4c8e1ec68443~mv2.jpg",
+      "name": "Product 3",
+      "id": 3
+    },
+    {
+      "img": "https://fullyfilmy.in/cdn/shop/products/New-Mockups---no-hanger---TShirt-Yellow.jpg?v=1639657077",
+      "name": "Product 4",
+      "id": 4
+    },
+    {
+      "img": "https://cdn11.bigcommerce.com/s-rxzabllq/images/stencil/1280x1280/products/909/11876/plain_sports_tshirt_online_pea_green__30001.1666768143.jpg?c=2",
+      "name": "Product 5",
+      "id": 5
+    },
+    {
+      "img": "https://cdn11.bigcommerce.com/s-64375/images/stencil/1280x1280/products/761/9185/pt243_navygreen1__35426.1463106145.jpg?c=2",
+      "name": "Product 6",
+      "id": 6
+    },
+    {
+      "img": "https://jobitex.be/wp-content/uploads/2023/05/T101002INK.webp",
+      "name": "Product 7",
+      "id": 7
+    },
+    {
+      "img": "https://i.pinimg.com/736x/18/f7/50/18f750ba7db3b44959b68e7e3797837b.jpg",
+      "name": "Product 8",
+      "id": 8
+    },
+    {
+      "img": "https://products.mpowerpromo.com/AB/M385W/B17046T92/QuarterView/m385w_qrt_t9_p.jpg",
+      "name": "Product 9",
+      "id": 9
+    },
+    {
+      "img": "https://ppgworkwear.co.uk/wp-content/uploads/2017/10/Eag-1000x1200.jpg",
+      "name": "Product 10",
+      "id": 10
+    }
+  ],
+  "favorites": []
+}
